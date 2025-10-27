@@ -1,4 +1,7 @@
 # Lab2 OpenPLC Equipo Relay
+
+![WhatsApp Image 2025-10-26 at 8 46 33 PM](https://github.com/user-attachments/assets/d11b2bb8-6f4a-47f5-bee7-cf4df8c5003d)
+
 ## Escenario
 
 Una empresa de logística quiere implementar una grúa para mover paquetes pesados en su galpón. Por ello se comunica con la Startup Relay para que implemente el sistema de control de movimiento de la misma.
